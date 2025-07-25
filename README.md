@@ -18,7 +18,7 @@ const parth = {
     currentFocus: "Full Stack Development",
     year: "Final Year CS Student",
     location: "India 🇮🇳",
-    interests: ["Web Development", "Aviation", "UI/UX Design"],
+    interests: ["Web Development", "Aviation", "Python"],
     currentlyLearning: ["Advanced React Patterns", "System Design"],
     funFact: "I debug code better at 2 AM ☕"
 };
@@ -140,7 +140,7 @@ const parth = {
 
 <div align="center">
   
-**✨ "Code is like humor. When you have to explain it, it's bad." ✨**
+** "Code is like humor. When you have to explain it, it's bad." **
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 

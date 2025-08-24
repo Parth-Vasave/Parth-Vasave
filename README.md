@@ -33,7 +33,7 @@ const parth = {
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech I Use
 
 <div align="center">
 

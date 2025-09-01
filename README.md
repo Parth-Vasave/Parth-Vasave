@@ -17,10 +17,9 @@ const parth = {
     pronouns: "he/him",
     currentFocus: "Full Stack Development",
     year: "Final Year CS Student",
-    location: "India 🇮🇳",
+    location: "India",
     interests: ["Web Development", "Aviation", "Python"],
     currentlyLearning: ["Advanced React Patterns", "System Design"],
-    funFact: "I debug code better at 2 AM ☕"
 };
 ```
 

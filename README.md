@@ -60,6 +60,14 @@ i am a **Final Year Computer Science Student** based in India. I bridge the gap 
 
 ---
 
+### anime im watching rn 😋
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmMyc2l5bGd0b2V0dGthenpzMmV2Y3Y0c2tnN3BzMXI5NjU3bXUzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X07n9aCJ9FIUfabn6p/giphy.gif" />
+  <br/>
+  <sub>(chisato is carrying the show tbh)</sub>
+</div>
+
 ### would love to connect
 
 <div align="center">

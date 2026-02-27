@@ -55,7 +55,6 @@ i am a **Final Year Computer Science Student** based in India. I bridge the gap 
     </tr>
   </table>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Vasave&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </div>
 
 ---

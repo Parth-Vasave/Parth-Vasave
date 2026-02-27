@@ -21,10 +21,10 @@
 
 ### me
 
-I am a **Final Year Computer Science Student** based in India. I bridge the gap between backend logic and frontend aesthetics. When I'm not debugging distributed systems or tweaking Tailwind classes, I'm usually tracking flight paths or studying aviation mechanics.
+i am a **Final Year Computer Science Student** based in India. I bridge the gap between backend logic and frontend aesthetics. When I'm not debugging distributed systems or tweaking Tailwind classes, I'm usually tracking flight paths or studying aviation mechanics.
 
-*  **Working on:** DSA (struggling)
-*  **Learning:** System Design & API Design
+*  **working on:** DSA (struggling)
+*  **learning:** System Design & API Design
 
 ---
 

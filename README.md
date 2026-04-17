@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/parth-vasave">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
-<a href="https://parth-vasave.github.io/Portfolio/">
+<a href="https://parth-vasave.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
 </a>
 <a href="mailto:parth.rk.vasave@gmail.com">
